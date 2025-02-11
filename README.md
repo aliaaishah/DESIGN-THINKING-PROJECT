@@ -11,7 +11,5 @@ Problem-Solving & Innovation – Applying Design Thinking principles to create m
 Application Development Process – From ideation to prototyping and potential implementation
 This experience reinforced the importance of accessibility, inclusivity, and technology-driven solutions in shaping a better future for job seekers with disabilities.
 
-touch README.md .gitignore LICENSE
-git remote add origin https://github.com/aliaaishah/jobequality.git
-git branch -M main
-git push -u origin main  # Upload everything
+## 📄 Report & Insights 
+🔍 **[Industry Talk Newsletter]()** 
