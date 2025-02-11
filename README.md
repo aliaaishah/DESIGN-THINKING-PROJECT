@@ -12,4 +12,7 @@ Application Development Process – From ideation to prototyping and potential i
 This experience reinforced the importance of accessibility, inclusivity, and technology-driven solutions in shaping a better future for job seekers with disabilities.
 
 ## 📄 Report & Insights 
-🔍 **[Industry Talk Newsletter]()** 
+🔍 **[Design Thinking Report]()** 
+
+## 🎥 Prototype Preview
+🎬 **[Watch our prototype preview here](#)** *(Upload link here)*
